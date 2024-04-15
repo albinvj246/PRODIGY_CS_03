@@ -1,4 +1,4 @@
-# PRODIGY_CS_03
+
 Password Complexity Checker
 
 Creating a password strength evaluation tool involves investigating different features of a password, such as length, character kinds, and patterns.
